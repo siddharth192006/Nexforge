@@ -1,0 +1,65 @@
+/* Importing Play font */
+body {
+    font-family: 'Play', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.navbar {
+    background-color: #1e1e1e;
+    border-bottom: 1px solid #333;
+}
+
+.logo {
+    width: 40px;
+    height: auto;
+}
+
+.hero-section {
+    background-image: url('D:\NexForge\Nexforge_portfolio\ex_web\web.img.webp');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
+
+.hero-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.project-card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    padding: 20px 0;
+    border-top: 1px solid #333;
+}
+
+.btn-outline-light {
+    border-color: #e0e0e0;
+    color: #e0e0e0;
+}
+
+.btn-outline-light:hover {
+    background-color: #e0e0e0;
+    color: #121212;
+}
