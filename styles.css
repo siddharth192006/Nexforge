@@ -15,6 +15,8 @@ body {
 .navbar {
     background-color: #1e1e1e;
     border-bottom: 1px solid #716f6f;
+    padding: 10px;
+
 }
 
 .logo {
@@ -23,7 +25,7 @@ body {
 }
 
 .hero-section {
-    background-image: url('D:\NexForge\Nexforge_portfolio\ex_web\web.img.webp');
+    background-image: url('https://github.com/siddharth192006/Nexforge/blob/master/web.img.webp');
     background-size: cover;
     background-position: center;
 }
