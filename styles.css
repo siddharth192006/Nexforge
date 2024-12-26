@@ -25,7 +25,7 @@ body {
 }
 
 .hero-section {
-    background-image: url('https://github.com/siddharth192006/Nexforge/blob/master/web.img.webp');
+    background-image: url('web.img.webp');
     background-size: cover;
     background-position: center;
 }
