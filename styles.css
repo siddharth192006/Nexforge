@@ -14,16 +14,16 @@ body {
 
 .navbar {
     background-color: #1e1e1e;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #716f6f;
 }
 
 .logo {
-    width: 40px;
+    width: 60px;
     height: auto;
 }
 
 .hero-section {
-    background-image: url('web.img.webp');
+    background-image: url('D:\NexForge\Nexforge_portfolio\ex_web\web.img.webp');
     background-size: cover;
     background-position: center;
 }
@@ -49,7 +49,6 @@ body {
 footer {
     background-color: #1e1e1e;
     color: #e0e0e0;
-    padding: 20px 0;
     border-top: 1px solid #333;
 }
 
