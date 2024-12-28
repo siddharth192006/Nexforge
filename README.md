@@ -12,16 +12,7 @@ At NexForge, we believe in creating platforms that empower individuals, foster c
 
 ## Key Projects
 
-NexForge is currently focusing on several major projects, one of which is an upcoming **social networking platform**. This platform will offer a unique experience for users to showcase their skills, interact with others, and gain new opportunities.
-
----
-
-## Features
-
-- **Innovative Platforms**: Bringing new and unique experiences to users.
-- **Secure Freelancing**: Focusing on safe transactions and reducing fraud.
-- **E-commerce Capabilities**: Helping users sell their products and services.
-- **Interactive Social Features**: Connecting users through shared interests and skills.
+NexForge is currently focusing on several major projects, one of which is an upcoming **social networking platform**.
 
 ---
 
